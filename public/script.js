@@ -69,3 +69,5 @@ document.addEventListener("DOMContentLoaded", function() {
     // Initial fetch of tasks when the page loads
     fetchTasks();
 });
+
+// changes
